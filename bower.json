@@ -1,0 +1,21 @@
+{
+  "name": "gulp-demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "iceStone <ice@wedn.net> (http://wedn.net/)"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
